@@ -57,7 +57,7 @@ $ git clone https://github.com/meomnzak/Elnazer.git
 $ cd Face-Mask-Detection/Grad
 ```
 
-3. Then download the YOLOv3 weights from this <a href="https://pjreddie.com/media/files/yolov3.weights">link</a> and store it in the yolov3 folder as <b>yolov3.weights</b>
+3. Then download the YOLOv3 weights from this <a href="https://pjreddie.com/media/files/yolov3.weights">link</a> and store it as <b>yolov3.weights</b>
 
 4. Download the required python packages
 ```bash
