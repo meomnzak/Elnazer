@@ -74,7 +74,7 @@ python main.py
   <tr>
     <td align="center"><img src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/MoamenProfile.jpg" width="100px;" height="100px;" alt=""/><br/><sub><b>Moamen Zakaria</b></sub></a><br/><p align="center">
       <p align="center">
-        <a href="www.linkedin.com/in/moamen-zakaria-465543177" alt="Linkedin">
+        <a href="https://www.linkedin.com/in/moamen-zakaria-465543177/" alt="Linkedin">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width = "30">
         </a>
         <a href="https://github.com/meomnzak" alt="Github">
@@ -87,7 +87,7 @@ python main.py
         <a href="https://www.linkedin.com/in/nour-el-din-atalla-6a9939247" alt="Linkedin">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width = "30">
         </a>
-        <a href=https://github.com/nouratalla" alt="Github">
+        <a href="https://github.com/nouratalla" alt="Github">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
         </a>
       </p>
