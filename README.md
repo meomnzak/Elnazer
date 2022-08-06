@@ -23,15 +23,14 @@ Professors and teaching assistant are suffering from students monitoring activit
       - As a requirment for exams on these days all the students must wear masks so we built a Face Mask Detection System with OpenCV, Keras, and TensorFlow using Deep Learning and Computer Vision concepts in order to detect masks on real-time video streams.
  
  - ### Detect books and cell phones
-      <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/book.gif">
-      <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/phone.gif">
+      <img width="607" alt="book" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/book.gif">
+      <img width="607" alt="phone" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/phone.gif">
       
       - Using a pre trained model called Yolo3 and a dataset called coco we detect the books and cell phones with students in exam halls and mark them as cheaters.
 
       
 - ### Turning around
-      <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/book.gif">
-      <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/phone.gif">
+      <img width="607" alt="turning" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/turning.gif">
       
       - Using haarcascade profile classifier we detect students face turning around to cheat from their classmates.
 
