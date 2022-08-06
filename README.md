@@ -7,5 +7,5 @@
 <div align= "center"><img src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/home.PNG"/></div>
 
 ## :innocent: Motivation
-Professors and teaching assistant are suffering from students monitoring activities in the exam rooms which are hard, boring and time-consuming missions. 
+Professors and teaching assistant are suffering from students monitoring activities in the exam rooms which are hard, boring and time-consuming missions. So the challenge was to make a reliable system to detect cheating.
 
