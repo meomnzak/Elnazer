@@ -36,7 +36,7 @@ Professors and teaching assistant are suffering from students monitoring activit
  - ### distance
       <img width="607" alt="distance" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/distance.gif">
       
-     - This feature uses OpenCV and YOLO to monitor/analyze whether people are maintaining enough distance between them or not. 
+     - This feature uses OpenCV and YOLO to monitor/analyze whether students are maintaining enough distance between them or not. 
 
 
 
