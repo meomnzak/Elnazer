@@ -34,8 +34,8 @@ Professors and teaching assistant are suffering from students monitoring activit
       
       - Using haarcascade profile classifier we detect students face turning around to cheat from their classmates.
 
-- ### Turning around
-      <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/distance.gif">
+- ### Distance
+      <img width="607" alt="distance" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/distance.gif">
       
       - This feature uses OpenCV and YOLO to monitor/analyze whether people are maintaining enough distance between them or not.
 
