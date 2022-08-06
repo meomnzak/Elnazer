@@ -14,24 +14,34 @@ Professors and teaching assistant are suffering from students monitoring activit
  - ### Attendance
       <img width="607" alt="attendace" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/attendance.gif">
       
-      - Take pictures for every student and encode all the images to recognize the faces of students and mark them as attended.
+      * Take pictures for every student and encode all the images to recognize the faces of students and mark them as attended. We use an Algorithm called haarcascade classifier that used to identify and detect faces in images or real time videos.
+
       
  - ### Mask detection
       <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/mask.gif">
       
-      - As a requirment for exams on these days all the students must wear masks so we built a Face Mask Detection System which works on real-time video streams.
+      * As a requirment for exams on these days all the students must wear masks so we built a Face Mask Detection System with OpenCV, Keras, and TensorFlow using Deep Learning and Computer Vision concepts in order to detect masks on real-time video streams.
  
  - ### Detect books and cell phones
       <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/book.gif">
       <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/phone.gif">
       
-      - We detect the books and cell phones with students in exam halls and mark them as cheaters.
+      * Using a pre trained model called Yolo3 and a dataset called coco we detect the books and cell phones with students in exam halls and mark them as cheaters.
+
       
 - ### Turning around
       <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/book.gif">
       <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/phone.gif">
       
-      - We detect students face turning around to cheat from their classmates.
+      * Using haarcascade profile classifier we detect students face turning around to cheat from their classmates.
+
+- ### Turning around
+      <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/distance.gif">
+      
+      * This feature uses OpenCV and YOLO to monitor/analyze whether people are maintaining enough distance between them or not.
+
+
+
 
 
 
