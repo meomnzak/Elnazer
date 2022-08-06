@@ -9,3 +9,8 @@
 ## :innocent: Motivation
 Professors and teaching assistant are suffering from students monitoring activities in the exam rooms which are hard, boring and time-consuming missions. So the challenge was to make a reliable system to detect cheating.
 
+
+## :star: Features
+ - ### Attendance
+      <img width="607" alt="attendace" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/attendance.gif">
+      - Take pictures for every student and encode all the images to recognize the faces of students and mark them as attended.
