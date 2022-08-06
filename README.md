@@ -69,6 +69,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## :trophy: Competitions
+Passed the first stage of [Egypt IOT and AI challenge](https://egypt.arabiotai.org/)
+
+![](https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/iot.png)
+
+
 ## Contributors
 <table>
   <tr>
