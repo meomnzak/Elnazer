@@ -25,6 +25,14 @@ Professors and teaching assistant are suffering from students monitoring activit
       <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/book.gif">
       <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/phone.gif">
       
-      - We detect the books and cell phones with students in exam halls and mark them as cheaters 
+      - We detect the books and cell phones with students in exam halls and mark them as cheaters.
+      
+- ### Turning around
+      <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/book.gif">
+      <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/phone.gif">
+      
+      - We detect students face turning around to cheat from their classmates.
+
+
 
 
