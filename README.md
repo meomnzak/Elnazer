@@ -9,6 +9,13 @@
 ## :innocent: Motivation
 Professors and teaching assistant are suffering from students monitoring activities in the exam rooms which are hard, boring and time-consuming missions. So the challenge was to make a reliable system to detect cheating.
 
+## :warning: TechStack/framework used
+- [Python](https://www.python.org/)
+- [OpenCV](https://opencv.org/)
+- [YOLO](https://pjreddie.com/darknet/yolo/)
+- [Keras](https://keras.io/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [MobileNetV2](https://arxiv.org/abs/1801.04381)
 
 ## :star: Features
  - ### Attendance
