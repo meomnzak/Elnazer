@@ -15,3 +15,9 @@ Professors and teaching assistant are suffering from students monitoring activit
       <img width="607" alt="attendace" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/attendance.gif">
       
       - Take pictures for every student and encode all the images to recognize the faces of students and mark them as attended.
+      - 
+ - ### Mask detection
+      <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/mask.gif">
+      
+      - As a requirment for exams on these days all the students must wear masks so we built a Face Mask Detection System which works on real-time video streams.
+
