@@ -46,6 +46,29 @@ Professors and teaching assistant are suffering from students monitoring activit
      - This feature uses OpenCV and YOLO to monitor/analyze whether students are maintaining enough distance between them or not. 
 
 
+## 🚀&nbsp; Installation
+1. Clone the repo
+```
+$ git clone https://github.com/meomnzak/Elnazer.git
+```
+
+2. Change your directory to the cloned repo 
+```
+$ cd Face-Mask-Detection/Grad
+```
+
+3. Then download the YOLOv3 weights from this <a href="https://pjreddie.com/media/files/yolov3.weights">link</a> and store it in the yolov3 folder as <b>yolov3.weights</b>
+
+4. Download the required python packages
+```bash
+pip install -r requirements.txt
+```
+
+5. Run the main.py file
+```bash
+python main.py
+```
+
 
 
 
