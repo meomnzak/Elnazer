@@ -30,7 +30,7 @@ Professors and teaching assistant are suffering from students monitoring activit
 
       
 - ### Turning around
-      <img width="607" alt="turning" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/turning.gif">
+      <img width="607" alt="phone" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/phone.gif">
       
       - Using haarcascade profile classifier we detect students face turning around to cheat from their classmates.
 
