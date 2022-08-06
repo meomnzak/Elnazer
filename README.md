@@ -28,6 +28,11 @@ Professors and teaching assistant are suffering from students monitoring activit
       
       - Using a pre trained model called Yolo3 and a dataset called coco we detect the books and cell phones with students in exam halls and mark them as cheaters.
 
+ - ### Turning
+      <img width="607" alt="mask" src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/turning.gif">
+      
+      -Using haarcascade profile classifier we detect students face turning around to cheat from their classmates.
+
 
 
 
