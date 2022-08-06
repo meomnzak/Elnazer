@@ -5,3 +5,7 @@
 </div>
 
 <div align= "center"><img src="https://github.com/meomnzak/Elnazer/blob/main/Grad/captures/home.PNG"/>
+
+## :innocent: Motivation
+Professors and teaching assistant are suffering from students monitoring activities in the exam rooms which are hard, boring and time-consuming missions. 
+
